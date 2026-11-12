@@ -1,0 +1,10 @@
+check,status,value
+Portfolio holdings,True,15
+Portfolio weights sum to one,True,0.9999999999999999
+Verified events,True,12
+Event-instrument links,True,12
+Thesis-match records,True,12
+Event-analysis records,True,12
+Missing converted asset prices,True,0
+Missing converted benchmark prices,True,0
+Events with official domains,True,True
